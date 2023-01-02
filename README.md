@@ -1,5 +1,5 @@
-# JavaWeb�����γ���Ŀ-�����̳�
+# JavaWeb基础课程项目-蛋糕商城
 
-##һ����ĿԤ��
-###1����ҳ
-![img](Img_CookieShop/home page(��ҳ).jpg)
+## 一、项目预览
+### 1、首页
+
