@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/cookieshop?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf-8</property>
+		<property name="user">root</property>
+		<property name="password">123456</property>
+	</default-config>
+</c3p0-config>
+		<!--源码修改该xml配置文件导致出现问题：tomcat已运行，使用idea 直接打开jsp文，件浏览器显示后缀变成xhtml，而不是jsp后缀-->

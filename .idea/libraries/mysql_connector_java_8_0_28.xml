@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/mchange-commons-java-0.2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/c3p0-0.9.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JavaFrame/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-10.0.14-windows-x64/apache-tomcat-10.0.14/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
